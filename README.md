@@ -25,12 +25,13 @@ $ pip install geopy fiona jupyter pyproj pytz shapely
 ## Examples
 
 ### Getting Started
-Clone the tutorial's git repository to a local directory:
-```
-$ git clone https://github.com/TRIP-Lab/python-gis-tutorial.git
-```
-
-Alternatively: https://github.com/TRIP-Lab/python-gis-tutorial -> _"Clone or download"_ --> _"Download ZIP"_
+1. Clone the tutorial's git repository to a local directory:
+   ```
+   $ git clone https://github.com/TRIP-Lab/python-gis-tutorial.git
+   ```
+   Alternatively: https://github.com/TRIP-Lab/python-gis-tutorial -> _"Clone or download"_ --> _"Download ZIP"_
+   
+2. Copy your personal Google Locations .json export the the `./data` directory
 
 
 ### Google Location Data to Other Formats
