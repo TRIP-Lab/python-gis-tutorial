@@ -29,13 +29,13 @@ $ pip install geopy fiona jupyter pyproj pytz shapely
    ```
    $ git clone https://github.com/TRIP-Lab/python-gis-tutorial.git
    ```
-   Alternatively: "Clone or download"_ --> _"Download ZIP"_ from the top of this page
+   Alternatively: _"Clone or download"_ --> _"Download ZIP"_ from the top of this page
    
 2. Copy your personal Google Locations .json export the the `./data` directory
 
 
 ### Google Location Data to Other Formats
-- From .json to .geojson and .shp (steps commented): .`/examples/google_locations_gis.py`
+- From .json to .geojson and .shp (steps commented): `./examples/google_locations_gis.py`
 - From .json to .csv: `./examples/google_locations_csv.py`
 
 ### Basic Analysis in Jupyter
