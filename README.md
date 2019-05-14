@@ -29,7 +29,7 @@ $ pip install geopy fiona jupyter pyproj pytz shapely
    ```
    $ git clone https://github.com/TRIP-Lab/python-gis-tutorial.git
    ```
-   Alternatively: https://github.com/TRIP-Lab/python-gis-tutorial -> _"Clone or download"_ --> _"Download ZIP"_
+   Alternatively: "Clone or download"_ --> _"Download ZIP"_ from the top of this page
    
 2. Copy your personal Google Locations .json export the the `./data` directory
 
